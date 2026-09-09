@@ -1,0 +1,5 @@
+{
+  "version": "v2026-09-09",
+  "generatedAt": "2026-09-09T15:14:00.000Z",
+  "notes": "Initial CDN pack. Production pins this tag; preview follows current.json on main."
+}
