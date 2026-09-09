@@ -1,0 +1,204 @@
+{
+  "version": "v1",
+  "generatedAt": "2026-09-09T15:04:08.892Z",
+  "files": {
+    "jp/section-spines.json": {
+      "bytes": 5715421
+    },
+    "jp/section-spines-z9.json": {
+      "bytes": 1875393
+    },
+    "jp/section-spines-z6.json": {
+      "bytes": 716183
+    },
+    "jp/section-roads.json": {
+      "bytes": 2185469
+    },
+    "jp/planned-ways.json": {
+      "bytes": 315209
+    },
+    "jp/atlas-tracks.json": {
+      "bytes": 1781618
+    },
+    "jp/prefectural-spines.json": {
+      "bytes": 284722
+    },
+    "jp/section-waypoints.json": {
+      "bytes": 110067
+    },
+    "jp/junctions.json": {
+      "bytes": 1308164
+    },
+    "jp/cities.json": {
+      "bytes": 453006
+    },
+    "jp/roadside-stations.json": {
+      "bytes": 301309
+    },
+    "jp/rest-areas.json": {
+      "bytes": 219393
+    },
+    "us/section-spines.json": {
+      "bytes": 2319689
+    },
+    "us/section-spines-z9.json": {
+      "bytes": 2000358
+    },
+    "us/section-spines-z6.json": {
+      "bytes": 1098670
+    },
+    "us/section-waypoints.json": {
+      "bytes": 76880
+    },
+    "bounds/prefectures.json": {
+      "bytes": 248645
+    },
+    "bounds/municipalities.json": {
+      "bytes": 1734004
+    },
+    "bounds/us-states.json": {
+      "bytes": 78542
+    },
+    "ken/aichi.json": {
+      "bytes": 239170
+    },
+    "ken/akita.json": {
+      "bytes": 100595
+    },
+    "ken/aomori.json": {
+      "bytes": 125533
+    },
+    "ken/chiba.json": {
+      "bytes": 162773
+    },
+    "ken/ehime.json": {
+      "bytes": 129095
+    },
+    "ken/fukui.json": {
+      "bytes": 109318
+    },
+    "ken/fukuoka.json": {
+      "bytes": 244766
+    },
+    "ken/fukushima.json": {
+      "bytes": 204176
+    },
+    "ken/gifu.json": {
+      "bytes": 148866
+    },
+    "ken/gunma.json": {
+      "bytes": 147798
+    },
+    "ken/hiroshima.json": {
+      "bytes": 195645
+    },
+    "ken/hokkaido.json": {
+      "bytes": 491010
+    },
+    "ken/hyogo.json": {
+      "bytes": 255072
+    },
+    "ken/ibaraki.json": {
+      "bytes": 174954
+    },
+    "ken/ishikawa.json": {
+      "bytes": 117863
+    },
+    "ken/iwate.json": {
+      "bytes": 129379
+    },
+    "ken/kagawa.json": {
+      "bytes": 102526
+    },
+    "ken/kagoshima.json": {
+      "bytes": 153962
+    },
+    "ken/kanagawa.json": {
+      "bytes": 97171
+    },
+    "ken/kochi.json": {
+      "bytes": 105858
+    },
+    "ken/kumamoto.json": {
+      "bytes": 137428
+    },
+    "ken/kyoto.json": {
+      "bytes": 161055
+    },
+    "ken/mie.json": {
+      "bytes": 159601
+    },
+    "ken/miyagi.json": {
+      "bytes": 117675
+    },
+    "ken/miyazaki.json": {
+      "bytes": 105470
+    },
+    "ken/nagano.json": {
+      "bytes": 217894
+    },
+    "ken/nagasaki.json": {
+      "bytes": 91173
+    },
+    "ken/nara.json": {
+      "bytes": 93964
+    },
+    "ken/niigata.json": {
+      "bytes": 288913
+    },
+    "ken/oita.json": {
+      "bytes": 130457
+    },
+    "ken/okayama.json": {
+      "bytes": 199581
+    },
+    "ken/okinawa.json": {
+      "bytes": 67965
+    },
+    "ken/osaka.json": {
+      "bytes": 100229
+    },
+    "ken/saga.json": {
+      "bytes": 79251
+    },
+    "ken/saitama.json": {
+      "bytes": 191255
+    },
+    "ken/shiga.json": {
+      "bytes": 145304
+    },
+    "ken/shimane.json": {
+      "bytes": 129699
+    },
+    "ken/shizuoka.json": {
+      "bytes": 175175
+    },
+    "ken/tochigi.json": {
+      "bytes": 160997
+    },
+    "ken/tokushima.json": {
+      "bytes": 114593
+    },
+    "ken/tokyo.json": {
+      "bytes": 103111
+    },
+    "ken/tottori.json": {
+      "bytes": 121886
+    },
+    "ken/toyama.json": {
+      "bytes": 149766
+    },
+    "ken/wakayama.json": {
+      "bytes": 108965
+    },
+    "ken/yamagata.json": {
+      "bytes": 135932
+    },
+    "ken/yamaguchi.json": {
+      "bytes": 144501
+    },
+    "ken/yamanashi.json": {
+      "bytes": 99023
+    }
+  }
+}
