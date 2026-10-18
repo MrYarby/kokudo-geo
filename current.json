@@ -1,5 +1,5 @@
 {
-  "version": "v2026-10-18",
-  "generatedAt": "2026-10-18T09:00:00.000Z",
-  "notes": "US spines from the 18 Oct ways rebuild. 142 of 163 two-digit routes rebuilt. 21 still on old lines: I-95, US 10, 14, 15, 17, 20, 24, 30, 31, 36, 40, 41, 45, 50, 54, 67, 72, 84, 92, 95, 96. Japan unchanged. v2026-09-09 was not moved."
+  "version": "v2026-10-18.2",
+  "generatedAt": "2026-10-18T13:20:00.000Z",
+  "notes": "Same-day rebake. The 21 routes OpenStreetMap refused are rebuilt from the US extract. Japan unchanged. v2026-10-18 and v2026-09-09 were not moved."
 }
