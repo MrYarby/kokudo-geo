@@ -1,6 +1,6 @@
 {
-  "version": "v1",
-  "generatedAt": "2026-09-09T15:04:08.892Z",
+  "version": "v2026-10-18",
+  "generatedAt": "2026-10-18T09:00:00.000Z",
   "files": {
     "jp/section-spines.json": {
       "bytes": 5715421
@@ -39,13 +39,13 @@
       "bytes": 219393
     },
     "us/section-spines.json": {
-      "bytes": 2319689
+      "bytes": 4338922
     },
     "us/section-spines-z9.json": {
-      "bytes": 2000358
+      "bytes": 2406152
     },
     "us/section-spines-z6.json": {
-      "bytes": 1098670
+      "bytes": 1128604
     },
     "us/section-waypoints.json": {
       "bytes": 76880
