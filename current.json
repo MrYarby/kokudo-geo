@@ -1,5 +1,5 @@
 {
-  "notes": "Close Route 1 Kyoto-Osaka, Route 2 Shimonoseki, and Route 3 Minamata gaps. v2026-11-23.3 not moved.",
-  "generatedAt": "2026-11-23T11:31:52.000Z",
-  "version": "v2026-11-23.4"
+  "version": "v2026-11-23.5",
+  "notes": "Route 2 uses the Kanmon Tunnel. The Kitakyushu chord is gone. v2026-11-23.4 not moved.",
+  "generatedAt": "2026-11-23T13:01:05.000Z"
 }
