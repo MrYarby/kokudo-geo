@@ -1,5 +1,5 @@
 {
-  "notes": "Replace straight jumps on the batch-filled nationals with the relation ways. v2026-11-23.5 not moved.",
-  "version": "v2026-11-23.6",
-  "generatedAt": "2026-11-23T13:14:39.000Z"
+  "generatedAt": "2026-11-23T15:09:50.000Z",
+  "notes": "Route 2 keeps one carriageway through Kobe. The out-and-back is dropped. v2026-11-23.6 not moved.",
+  "version": "v2026-11-23.7"
 }
