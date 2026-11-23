@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:09:50.000Z",
-  "notes": "Route 2 keeps one carriageway through Kobe. The out-and-back is dropped. v2026-11-23.6 not moved.",
-  "version": "v2026-11-23.7"
+  "version": "v2026-11-23.8",
+  "notes": "Route 2 rebuilt with the dual-aware stitcher. v2026-11-23.7 not moved.",
+  "generatedAt": "2026-11-23T15:24:05.000Z"
 }
