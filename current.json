@@ -1,5 +1,5 @@
 {
-  "notes": "Fill missing Japan national spines from OSM relations. v2026-11-23.2 not moved.",
-  "version": "v2026-11-23.3",
-  "generatedAt": "2026-11-23T09:16:18.000Z"
+  "notes": "Close Route 1 Kyoto-Osaka, Route 2 Shimonoseki, and Route 3 Minamata gaps. v2026-11-23.3 not moved.",
+  "generatedAt": "2026-11-23T11:31:52.000Z",
+  "version": "v2026-11-23.4"
 }
