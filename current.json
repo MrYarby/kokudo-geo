@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:39:41.000Z",
-  "version": "v2026-11-23.2",
-  "notes": "Route 9 is the OSM relation, Kyoto to Shimonoseki. v2026-11-23 not moved."
+  "notes": "Fill missing Japan national spines from OSM relations. v2026-11-23.2 not moved.",
+  "version": "v2026-11-23.3",
+  "generatedAt": "2026-11-23T09:16:18.000Z"
 }
