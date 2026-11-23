@@ -1,5 +1,5 @@
 {
-  "version": "v2026-11-23.5",
-  "notes": "Route 2 uses the Kanmon Tunnel. The Kitakyushu chord is gone. v2026-11-23.4 not moved.",
-  "generatedAt": "2026-11-23T13:01:05.000Z"
+  "notes": "Replace straight jumps on the batch-filled nationals with the relation ways. v2026-11-23.5 not moved.",
+  "version": "v2026-11-23.6",
+  "generatedAt": "2026-11-23T13:14:39.000Z"
 }
